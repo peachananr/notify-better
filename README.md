@@ -1,12 +1,14 @@
 #Notify Better by Pete R.
 The ultimate all in one plugin for notification - Change your favicon, browser's title and more to reflect new notifications
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
-![Notify Better](http://www.thepetedesign.com/images/notify_better_image.png "Notify Better")
+
+[![Notify Better](http://www.thepetedesign.com/images/notify_better_image.png "Notify Better")](http://www.thepetedesign.com/demos/notify_better_demo.html)
+
 ## Demo
 [View demo](http://www.thepetedesign.com/demos/notify_better_demo.html)
 
 ## Compatibility
-Dynamic favicon feature from this plugin only works with Chrome and Firefox. Unfortunately, Safari and IE do not allow you to change a favicon after page load.
+Dynamic favicon feature from this plugin only works with Chrome and Firefox. Unfortunately, Safari and IE do not allow you to change the favicon after page load.
 
 If you are getting this error: "Failed to load resource: Origin null is not allowed by Access-Control-Allow-Origin." from our demo, try hosting this in your local server or if you are using OSX, move the demo folder into Library/WebServer/Documents and try visiting http://localhost/demo/index.html in your browser. The notification polling should work.
 
