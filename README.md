@@ -57,7 +57,7 @@ $("#notification").notify_better({
       url: "count.html",
     }).done(function(data, textStatus, jqXHR) {
       titleclear(); // Notify Better default function to clear title 
-      changeFavicon(notif)  //  Notify Better default function to change favicon dynamically 
+      changeFavicon(data)  //  Notify Better default function to change favicon dynamically 
       ...
     });
   }
