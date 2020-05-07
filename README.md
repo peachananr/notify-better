@@ -2,10 +2,8 @@
 The ultimate all in one plugin for notification - Change your favicon, browser's title and more to reflect new notifications
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![Notify Better](http://www.thepetedesign.com/images/notify_better_image.png "Notify Better")](http://www.thepetedesign.com/demos/notify_better_demo.html)
-
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/notify_better_demo.html)
+[View demo](http://peachananr.github.io/notify-better/demo/index.html)
 
 ## Compatibility
 Dynamic favicon feature from this plugin only works with Chrome and Firefox. Unfortunately, Safari and IE do not allow you to change the favicon after page load.
